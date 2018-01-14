@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "David Moore website theme"
+license = "MIT"
+licenselink = "https://github.com/davidmoore/davidmoore/blob/master/LICENSE"
+description = "Hugo theme for DavidMoore.info, based on Hugo Docs theme by Bud Parr https://github.com/budparr"
+homepage = "http://www.davidmoore.info/"
+tags = ["website"]
+features = ["", ""]
+min_version = 0.18
+
+[author]
+  name = "David Moore"
+  homepage = "http://www.davidmoore.info/"
+
+[original]
+  author = "Bud Parr"
+  homepage = "https://github.com/budparr"
+  repo = "https://github.com/budparr/gohugo.io"
