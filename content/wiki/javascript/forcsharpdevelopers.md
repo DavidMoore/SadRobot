@@ -45,11 +45,13 @@ Anything not defined within a function or using the var keyword, will be set on 
 
 Array is more like Dictionary<int, object> where the index is an auto-incrementing value.
 
-##Classes
+## Classes
 
-No `class in javascript, but there is a `new` keyword.
+No `class` in javascript, but there is a `new` keyword.
 
-Prototypical inheritance etc; inheritance polyfill code.
+Prototypical inheritance etc;
+
+Inheritance polyfill code:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
 
@@ -74,14 +76,14 @@ if (typeof Object.create != 'function') {
 
 ```
 
-##Closures
+## Closures
 
-##Polymorphism
+## Polymorphism
 
 Functions cannot be overloaded in Javascript
 
 
-##Equality & Truthiness
+## Equality & Truthiness
 
 In C#, you have null as your default value for empty references.
 
@@ -96,7 +98,7 @@ var value = "Non-null string value";
 if(value) Console.WriteLine("Say something");
 ```
 
-###Equals
+### Equals
 
 In JavaScript, `==` is a soft comparison. You can use `===` for hard comparison, which strictly matches type and value, and is more equivalent to `.Equals` or `==` in C#.
 
@@ -122,16 +124,16 @@ Objects are only equal to themselves.
 ```
 
 
-##Multi-line strings
+## Multi-line strings
 
-####C#:
+#### C#:
 ```csharp
 var value = @"First line
 Second line
 Third line";
 ```
 
-####JavaScript:
+#### JavaScript:
 
 Use backticks:
 
@@ -141,18 +143,18 @@ Second line
 Third line`;
 ```
 
-##Anonymous functions
+## Anonymous functions
 
 
 
 ## Lambdas
 
-###CSharp
+### CSharp
 
 ```csharp
 var expression = () => "Test";
 ```
-###Javascript
+### Javascript
 
 ```javascript
 var expression = () => "Test";
@@ -178,7 +180,7 @@ Promises can be changed; if you return a value, that gets passed to the next the
 
 # Development tips and tricks
 
-Debugging
+## Debugging
 
 You can put the **``debugger;``** statement anywhere to force a breakpoint in development tools.
 

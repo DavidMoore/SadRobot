@@ -1,5 +1,6 @@
 ---
 title: Overview
+description: 'JavaScript: what is it? How does it relate to ECMAScript, Java and TypeScript?'
 ---
 
 ## ECMAScript, JavaScript, Java, asm.js
