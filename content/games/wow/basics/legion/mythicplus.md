@@ -1,10 +1,10 @@
 ---
-title: Mythic+
-description: Mythic+ Paladin Guide
+title: Legion Mythic+
+description: Legion Mythic+ Paladin Guide
 toc: true
 menu:
     games:
-        parent: "wow"
+        parent: "legion"
         weight: 20
 ---
 

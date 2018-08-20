@@ -4,7 +4,7 @@ description: Antorus Paladin Guide
 toc: true
 menu:
     games:
-        parent: "wow"
+        parent: "legion"
         weight: 55
 ---
 
@@ -19,9 +19,9 @@ menu:
 | Essence of Eonar        | Chest       | HM Wrists (Prot 1)            | Holy Relic #2 (Hammer Time), Iron Relic #2 (Stern Judgment), Bracers          |                          |                       |
 | Imonar the Soulhunter   | Legs        |             | #1 Arcane Relic (Hammer Time)                       |                          |                       |
 | Kin'garoth              | Gloves      | HV Helm, CM Ring (Holy 1)    | Apocalypse Drive                                 |                          |                       |
-| Varimathras             | HM Neck (Prot 1), CH Bracers (Holy 1, Prot 2)            |             |                                                  |                          |                       |
+| Varimathras             | HM Neck (Prot 1), CH Bracers (Holy 1, Prot 2)            |             |                                                  |                          | Seeping Scourgewing  |
 | Coven of Shivarra       | Shoulders   | HM Boots (Prot 1), HC Ring (Holy 1, Prot 1)            | Diima's Glacial Aegis                            | Highfather's Machination |                       |
-| Aggramar                | Helm        | H/C Cloak (Prot 1, Holy 1), C/H Chest (Holy 1, Prot 3), HM Belt (Prot 1, )            | Smoldering Titanguard                            |                          |   |
+| Aggramar                | Helm        | H/C Cloak (Prot 1, Holy 1), C/H Chest (Holy 1, Prot 3), HM Belt (Prot 1, )            | Smoldering Titanguard                            |                          | Gorshalach's Legacy  |
 | Argus the Unmaker       | Aman'thul's Vision | CH Neck (Holy 1, Prot 2), HM Legs (Prot 3)            | Aggramar's Conviction, #1 Holy Relic (Consecration), #3 Arcane Relic (Righteous Crusader) | Eonar's Compassion       | Khaz'goroth's Courage |
 
 #### Loot Levels
@@ -50,29 +50,37 @@ menu:
 
 Basic Swap = tank swap when debuff drops off
 
+## Default Trinkets
+
+These are the default trinkets recommended for each spec, unless stated otherwise.
+
+#### Trinkets
+
+| Protection | Holy | Retribution |
+|------------|------|-------------|
+| Aggramar's, Eye of Command / Memento | | Khaz'goroth's Courage, Seeping Scourgewing |
+
 ## Garothi Worldbreaker
-
-Eradication is not blockable. 12.5m on Mythic
-
-Soak small circles if in melee range
-Run out of big circles
 
 Damage profile 70% Physical, 30% Magic. 65% auto attack.
 
-You can use Spellwarding or Divine Shield to stand still and ignore the fel bombardment
+Tank swap: On Bombardment. Make sure you get your active mitigation up before you taunt.
 
+Talents: Spellwarding. Fel Bombardment is Fire damage, and can be immuned using BoSW or DS so you don't have to move.
 
-Fel Bombardment is fire
-Eradication is physical (BoP)
+Eradication is not blockable (12.5m on Mythic)
+Eradication is physical damage, so you can use DS or BoP to immune it.
 
-Tank swap on bombardment
-When taunting, make sure mitigation is up for the first hit
+* If there is no tank in melee range, the boss will pulse raid-wide AoE
+* Soak small circles if in melee range
+* Run out of big circles
+* Heroic: Avoid the green beams on the ground
 
-If there is no tank in melee range, the boss will pulse raid-wide AoE
+#### Trinkets
 
-Heroic: Avoid the green beams on the ground
-
-Talents: Blessed Hammer, Spellwarding
+| Protection | Holy | Retribution |
+|------------|------|-------------|
+| Aggramar's, Eye of Command / Memento | | Khaz'goroth's Courage, Seeping Scourgewing |
 
 Herosim: Phase 3
 
@@ -96,6 +104,8 @@ Holy shield helps you block the stacks of the debuff; best mitigation amongst ta
 
 Boss energy / ability weak aura: https://wago.io/Hk-hC1oxM
 
+Trinkets: Memento, Aggramar's
+
 ## Antoran High Command
 
 Face boss away, as they cleave / cone attack, including other tank (need to be behind so bebuff doesn't hit)
@@ -106,6 +116,12 @@ Interrupt adds with AS mouseover
 Tank swap on 2 stacks of debuff
 
 Bladestorm and Explot Weakness are blockable
+
+Trinkets: Eye of Command, Aggramar's
+
+| Protection | Holy | Retribution |
+|------------|------|-------------|
+| Eye of Command | | Gorschalach's Legacy |
 
 ## Portal Keeper Hasabel
 
@@ -122,6 +138,8 @@ Heroic: Leave quarter of raid to deal with trash on platform
 Holy Shield, Spellwarding
 85% physical (35% auto attack, 50% dot), 5% shadow, 5% fire, 5% nature
 
+Trinkets: Eye of Command, Aggramar's
+
 ## Eonar
 
 Blessed Hammer
@@ -129,6 +147,12 @@ Roughly half physical, half magic damage (fire)
 Heroic: Tank Fel-powered purifiers away from other adds, as they make them immune to CC
 Fel-Infused Destructor must be tanked and interrupted
 Fel-charged Obfuscator has DPS priority (makes all adds immune and non CCable)
+
+Trinkets: Memento or AoE, Aggramar's
+
+| Protection | Holy | Retribution |
+|------------|------|-------------|
+| Aggramar's, Eye of Command / Memento | | Umbral Moonglaives or Gorschalach's |
 
 ## Imonar the Soul Hunter
 
@@ -143,6 +167,8 @@ Intermission at 66% and 33%
 Phase 3: Heroism
 Immunities won't stop damage from hitting raid
 
+Trinkets: Memento, Aggramar's
+
 ## Kin'Garoth
 
 Blessed Hammer
@@ -151,6 +177,8 @@ Tank away from raid, soak bombs away from raid, be alone for Forging Strike (5 y
 Tank swap for each Forging Strike. Forging Strike is not blockable.
 Stack purple, spread for red, soak green
 Add order [1,2] [2,3] [3,1]
+
+Trinkets: Memento, Aggramar's
 
 ## Varimathras
 
@@ -166,6 +194,8 @@ Boss has damage aura Torment of Flames, later Torment of Shadows (enrage)
 Heroic: Fire > Frost (40% slow) > Fel (increases damage per tick) > Shadow aura (even 2 mins)
 Tank swap each swipe
 
+Trinkets: Eye of Command, Aggramar's
+
 ## The Coven of Shivarra
 
 Run out of the Orb of Frost
@@ -175,7 +205,6 @@ Move out of spinning sabre
 Holy Shield, Spellwarding
 BoF can remove flash freeze (but not negate the damage)
 If you Spellwarding Flash Freeze, it will bounce to another player
-Freedom gives you immunity to Storm of Darkness
 Basic tank swap for Noura
 Asara doesn't need to be tanked. Dodge her shadow blades.
 Boss swap at 65%, 40%
@@ -186,10 +215,12 @@ Khaz'goroth: Avoid the flamethrowers pointing to the middle and kill adds
 Norgannon: CC the adds for 30 secs, then kill.
 Golganneth: Spread out, kill adds
 
+Trinkets: Eye of Command / Memento, Aggramar's
+
 ## Aggramar
 
 Foebreaker (33.7m) and Tae'shalach's Reach (1.5-3.4m) are blockable
-Blessed Hammer, Spellwarding
+Talents: Blessed Hammer, Spellwarding
 85% Physical (75% autoattack, 10% cone)
 15% Fire
 
@@ -198,21 +229,29 @@ Tank swap at 5/6 stacks
 
 At 100 energy combo:
 
-Tank 1 solo soak first, then run into raid and soak 2nd hit with raid
-Tank 2 taunts, soaks first hit, then soaks 2nd hit with raid
-Everyone out from AoE
+* Tank 1 solo soak first, then run into raid and soak 2nd hit with raid
+* Tank 2 taunts, soaks first hit, then soaks 2nd hit with raid
+* Everyone out from AoE (you can use BoSW or DS to stay in)
 
-Keep small adds away from big adds or they will speed up and buff the explosion
+Intermission 1 & 2: 80% / 40%
 
-Pull small adds to boss every 15 seconds
+* Tank big adds, keep them away from small adds or they will speed up and buff the explosion
+* CC / Stun / Snare small adds while pulling one to boss every 15 seconds
+* Kill big adds to end intermission
+
+
+Trinkets: Eye of Command / Memento, Aggramar's
+
+| Protection | Holy | Retribution |
+|------------|------|-------------|
+| Memento of Angerboda | | Memento of Angerboda |
 
 ## Argus the Unmaker
 
 90% Physical: 55% auto attack, 30% scythe, 10% other
 10% Shadow
 
-Blessed Hammer, Spellwarding
-Bombs are shadow damage, so you can put spellwarding on the runner
+Talents: Blessed Hammer, Spellwarding (use on the runner with the bomb)
 HoTP works on the tree
 
 Tank cleaves, so only one tank in front
@@ -222,6 +261,8 @@ Phase 1: Stack cones. Lightning orb = Mastery / Crit (back), Frost / Water orb =
 Phase 2 70%: Dodge lines, tank boss away so bombs can run to edges. Tank granted buff soaks big bomb
 Phase 3 40% intermission: Tank the adds that have swords, and keep them 20 yards apart from each other to avoid 20% damage. On Heroic, they become immune to interrupt for 20secs after being interrupted. Ignore Starblast and interrupt Cosmic Beacon.
 Final Phase 40%: Don't tank swap, die with debuff and rez at tree
+
+Trinkets: Memento, Aggramar's
 
 
 ## References

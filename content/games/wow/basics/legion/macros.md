@@ -1,9 +1,9 @@
 ---
-title: Paladin Macros
+title: Legion Paladin Macros
 description: Macros and recommended interface mods for Paladins
 menu:
     games:
-        parent: "wow"
+        parent: "legion"
         weight: 50
 ---
 
