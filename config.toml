@@ -8,14 +8,11 @@ languageCode = "en-us"
 metaDataFormat = "yaml"
 title = "Sad Robot"
 theme = "sadrobot"
-
+enableGitInfo = true
 disqusShortname = "sadrobot"
-
 googleAnalytics = "UA-7702004-1"
-
 pluralizeListTitles = false
 disableAliases = false
-
 
 # Highlighting config (Pygments)
 # It is (currently) not in use, but you can do ```go in a content file if you want to.
