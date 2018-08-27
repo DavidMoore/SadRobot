@@ -5,7 +5,7 @@ toc: true
 menu:
     games:
         name: "World of Warcraft: Legion"
-        weight: 10
+        weight: 20
         identifier: "legion"
-        url: "/wow/legion"
+        url: "/wow/legion/"
 ---

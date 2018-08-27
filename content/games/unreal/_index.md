@@ -5,7 +5,7 @@ toc: true
 menu:
     games:
         name: "Unreal Tournament"
-        weight: 20
+        weight: 30
         identifier: "unreal"
         url: "/games/unreal"
 ---

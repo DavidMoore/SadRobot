@@ -6,7 +6,7 @@ description: A small utility that will update your ElvUI to the latest version.
 menu:
     games:
         parent: "wow"
-        weight: 70
+        weight: 10
 ---
 
 <a href="https://github.com/DavidMoore/ElvUI.Updater/releases/download/0.9.1/Setup.exe"><img src="/images/games/wow/elvui-updater.png" alt="Install ElvUI Updater" /></a>
