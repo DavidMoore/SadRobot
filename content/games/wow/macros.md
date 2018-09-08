@@ -34,7 +34,7 @@ Judges your mouseover target if they're an enemy, enemy focus target or finally 
 
 ```
   #showtooltip Judgment
-  /cast [@mouseover,harm][@focus,exists,harm][] Judgment
+  /cast [@mouseover,harm][@focus,exists,harm][@target,harm,nodead] Judgment
 ```
 
 #### Divine Shield

@@ -1,3 +1,4 @@
 ---
 toc: true
+nav: "games"
 ---

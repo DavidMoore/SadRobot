@@ -1,10 +1,10 @@
 ---
-title: King's Rest
+title: "Kings' Rest"
 toc: true
-description: King's Rest
+description: "Kings' Rest"
 menu:
     games:
-        name: "Dungeon: King's Rest"
+        name: "Dungeon: Kings' Rest"
         parent: "wow"
         weight: 110
 ---
