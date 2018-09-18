@@ -31,6 +31,42 @@ Item Level > Haste > Mastery >= Versatility > Crit
 
 # Azerite Traits
 
+<table>
+<thead>
+<tr><th>Rank</th><th colspan="6">Defensive</th><th colspan="6">Offensive</th></tr>
+<tr><th></th><th colspan="3">ST</th><th colspan="3">AOE</th><th colspan="3">ST</th><th colspan="3">AOE</th></tr>
+<tr><th></th><th>Outer</th><th>Middle</th><th>Inner</th><th>Outer</th><th>Middle</th><th>Inner</th><th>Outer</th><th>Middle</th><th>Inner</th><th>Outer</th><th>Middle</th><th>Inner</th></tr>
+</thead>
+<tbody>
+
+<tr><td>S+ Tier</td><td></td><td></td><td>Gemhide</td><td>Soaring Shield<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+
+<tr><td rowspan="2">S Tier</td><td></td><td>Ablative Shielding</td><td><td></td><td></td><td>Gemhide</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Inspiring Vanguard x1</td><td></td><td></td><td>Inspiring Vanguard<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td><td></td><td>Ablative Shielding</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+
+<tr><td rowspan="10">A Tier</td><td></td><td>Crystalline Carapace</td><td></td><td><td></td><td>Crystalline Carapace</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Impassive Visage</td><td>Bulwark of Light</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Meticulous Scheming</td><td></td><td></td><td></td><td></td><td>Impassive Visage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tradewinds</td><td></td><td></td><td></td><td></td><td>Bulwark of the Masses</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bulwark of Light</td><td></td><td></td><td>Avenger’s Might</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Life Speed</td><td></td><td>Tradewinds</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Shimmering Haven</td><td></td><td>Incite the Pack</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Blood Siphon</td><td></td><td></td><td>Blood Siphon</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Avenger’s Might</td><td></td><td></td><td></td><td>Life Speed</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Shimmering Haven</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+
+<tr><td rowspan="7">B Tier</td><td>Soaring Shield</td><td></td><td></td><td></td><td>Azerite Veins</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Azerite Veins</td><td></td><td></td><td></td><td>Resounding Protection</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Resounding Protection</td><td>Meticulous Scheming</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Archive of the Titans</td><td></td><td></td><td>Archive of the Titans</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>On My Way</td><td></td><td></td><td>On My Way</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Concentrated Mending</td><td></td><td>Unstable Catalyst</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Strength in Numbers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+
+</tbody>
+</table>
+
 ## Defensive
 
 Gemhide
