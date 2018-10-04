@@ -10,5 +10,5 @@ weight: 00
 slug: ""
 aliases: []
 toc: true
-nav: "docs"
+nav: "wiki"
 ---

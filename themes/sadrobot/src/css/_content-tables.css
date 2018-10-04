@@ -15,6 +15,10 @@
        padding: .375em .5em;
      }
 
+     & th.primary-color-dark {
+      background-color: var(--primary-color-dark);
+    }
+
     & td, & tc {
       padding: .75em .5em;
       text-align: left;
