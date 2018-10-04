@@ -262,6 +262,13 @@ twitter = "whup"
     identifier = "games"
     url = "/games/"
 
+    
+  [[menu.global]]
+    name = "IPFilter"
+    weight = 15
+    identifier = "ipfilter"
+    url = "/ipfilter/"
+
   # Anything with a weight > 100 gets an external icon
 
   [[menu.global]]

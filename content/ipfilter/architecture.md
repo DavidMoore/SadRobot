@@ -2,7 +2,6 @@
 toc: true
 title: Architecture
 description: IPFilter Architecture
-aliases: [/ipfilter/architecture]
 ---
 The IPFilter updater takes in a set of one or more inputs, and one or more outputs.
 
