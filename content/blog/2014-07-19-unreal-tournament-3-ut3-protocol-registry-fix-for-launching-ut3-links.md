@@ -16,7 +16,7 @@ This can be fixed by manually adding a ut3 protocol to the Windows registry.
 
 ## Instructions
 
-  1. Download the initial registry fix, but don't merge it yet: [Download UT3 Protocol registry fix](/ut/ut3protocol.zip)
+  1. Download the initial registry fix, but don't merge it yet: [Download UT3 Protocol registry fix](/downloads/games/ut/ut3protocol.zip)
   2. Open it with a text editor such as Notepad
   3. Change the install location to make where you have UT3. If your steam library is by default C:\Games\Steam, then you won't have to change anything.
   4. Save the file.
@@ -24,7 +24,8 @@ This can be fixed by manually adding a ut3 protocol to the Windows registry.
 
 For information's sake, the contents of the registry file is below. You can create your own registry file from this by copying and saving the text, giving the file a .reg file extension.
 
-<pre>Windows Registry Editor Version 5.00
+```registry
+Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\unreal]
 @="URL:Unreal Tournament 3 Protocol"
@@ -42,7 +43,7 @@ For information's sake, the contents of the registry file is below. You can crea
 @="\"C:\\Games\\Steam\\steamapps\\common\\unreal tournament 3\\Binaries\\UT3.exe\" \"%1\""
 
 
-</pre>
+```
 
 I will look into automating this to detect where UT3 is installed, but I'm not sure how or where to get this information from Steam programmatically.
 
