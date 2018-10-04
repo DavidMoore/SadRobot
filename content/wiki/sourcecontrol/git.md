@@ -1,5 +1,15 @@
-Git
-===
+# Git
+
+## Create an empty branch
+
+```
+git checkout --orphan <branch>
+git reset --hard
+```
+
+## Clear the working directory
+
+``git rm --cached -rf .``
 
 Configure for Windows
 ---------------------
