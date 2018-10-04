@@ -9,6 +9,13 @@ menu:
         weight: 90
 ---
 
+# Notable Trash
+
+* If Dazar'ai Confessors get a Bwonsamdi's Mantle cast off, drag trash out of the bubble, as it makes their casts un-interruptible
+* Interrupt Dazar'ai Augur's Fiery Enchant (exploding fire circles under party members' feet)
+* For Shieldbearers of Zul, use Hammer of Justice or Blinding Light to interrupt their Bulwark of Juju
+* 
+
 # Priestess Alun'za
 
 * Use activate mitigation, perhaps a cooldown, for Gilded Claws
@@ -30,7 +37,8 @@ menu:
 
 * Use active mitigation and/or cooldowns when hit by Serrated Teeth, as you bleed and take 50% additional physical damage
 * Pick up Reanimated Raptor adds from Ancient Dry Bones piles
-* Run away if Purse is on you, and try to avoid running Rezan through Ancient Dry Bones to reduce adds
+* After he casts Terrifying Visage, make sure your Divine Steed is ready to run away if he chooses to Pursue you.
+* Avoid running Rezan through Ancient Dry Bones to reduce adds
 * Tank him near stairs to allow people to LOS Terrifying Visage
 * Healer should be ready to dispel fear from the tank if they can't LOS the fear
 

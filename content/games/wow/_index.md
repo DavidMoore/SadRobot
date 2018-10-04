@@ -1,5 +1,5 @@
 ---
-title: "World of Warcraft: Battle for Azeroth"
+title: "World of Warcraft"
 description: World of Warcraft guides
 toc: true
 menu:

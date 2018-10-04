@@ -8,7 +8,43 @@ menu:
         weight: 20
 ---
 
-## Mythic+
+# Loot
+
+* Weekly Chest contains 1 item
+* Azerite pieces only drop from the Weekly Chest
+* No gear or talent changes in Mythic+
+* You can zone out, change gear and/or talents, then zone back in
+* You can now bonus roll for loot in Mythic+
+
+| Keystone Level | End of Dungeon | Weekly Chest | Azerite Armor (Weekly Chest) |
+|----------------|----------------|--------------|------------------------------|
+| Mythic 2 | 345 | 355 | 340 |
+| Mythic 3 | 345 | 355 | 340 |
+| Mythic 4 | 350 | 360 | 355 |
+| Mythic 5 | 355 | 360 | 355 |
+| Mythic 6 | 355 | 365 | 355 |
+| Mythic 7 | 360 | 370 | 370 |
+| Mythic 8 | 365 | 370 | 370 |
+| Mythic 9 | 365 | 375 | 370 |
+| Mythic 10+ | 370 | 380 | 385 |
+
+# Affix Schedule
+
+Affix 1	Affix 2	Affix 3
+Fortified	Sanguine	Necrotic
+Tyrannical	Bursting	Skittish
+Fortified	Teeming	Quaking
+Tyrannical	Raging	Necrotic
+Fortified	Bolstering	Skittish
+Tyrannical	Teeming	Volcanic
+Fortified	Sanguine	Grievous
+Tyrannical	Bolstering	Explosive
+Fortified	Bursting	Quaking
+Tyrannical	Raging	Volcanic
+Fortified	Teeming	Explosive
+Tyrannical	Bolstering	Grievous
+
+
 
 ## Affixes
 

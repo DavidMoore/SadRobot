@@ -9,3 +9,6 @@ menu:
         weight: 110
 ---
 
+# Dazar, The First King
+
+* Use Blessing of Spellwarding or Divine Shield to break the fear

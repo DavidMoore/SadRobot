@@ -29,6 +29,8 @@ menu:
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Wrist Haste / Mast</td></tr>
 <tr><td></td><td></td><td></td><td></td><td align="center" colspan="3" >Hands Crit / Haste</td></tr>
 
+<tr><th colspan="7" class="primary-color-dark">Wing 1</th></tr>
+
 <tr><th>Taloc</th><th>Azerite Armour</th><th>Role Traits</th><th>Defensive Traits</th><th>Protection</th><th>Holy</th><th>Retribution</th></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td>Trinket: +Int, aoe damage proc</td><td>2H Str Mace Crit/Haste</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Wrists Vers/Crit</td></tr>
@@ -40,16 +42,16 @@ menu:
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Waist Mast/Crit</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Ring: Crit/Haste</td></tr>
 
-<tr><th>Fetid Devourer</th><th>Azerite Armour</th><th>Role Traits</th><th>Defensive Traits</th><th>Protection</th><th>Holy</th><th>Retribution</th></tr>
-<tr><td></td><td></td><td></td><td></td><td><a href="https://www.wowhead.com/item=160685">1H Axe</a>1H Axe Crit/Vers</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">Hands Crit/Vers</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="3">Cloak: Haste/Mastery</td></tr>
-
 <tr><th>Zek'voz</th><th>Azerite Armour</th><th>Role Traits</th><th>Defensive Traits</th><th>Protection</th><th>Holy</th><th>Retribution</th></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td>1H Ver/Mast Mace</td><td>Trinket: +Str, Damage proc (cone)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Legs: Vers/Mastery</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Feet: Haste/Vers</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Ring: Mastery/Crit</td></tr>
+
+<tr><th>Fetid Devourer</th><th>Azerite Armour</th><th>Role Traits</th><th>Defensive Traits</th><th>Protection</th><th>Holy</th><th>Retribution</th></tr>
+<tr><td></td><td></td><td></td><td></td><td><a href="https://www.wowhead.com/item=160685">1H Axe</a>1H Axe Crit/Vers</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">Hands Crit/Vers</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="3">Cloak: Haste/Mastery</td></tr>
 
 <tr><th>Vectis</th><th>Azerite Armour</th><th>Role Traits</th><th>Defensive Traits</th><th>Protection</th><th>Holy</th><th>Retribution</th></tr>
 <tr valign="top"><td rowspan="3">Vectis</td><td><a href="https://www.wowhead.com/item=160636">Chest</a><br/><a href="https://www.wowhead.com/spell=280555">Archive of the Titans</a><br/><a href="https://www.wowhead.com/spell=280559">Laser Matrix</a></td><td>Strength In Numbers<br/>Unstable Flames<br/>Woundbinder</td><td></td><td>Judicious Defense</td><td>Breaking Dawn</td><td>Relentless Inquisitor</td></tr>
@@ -304,4 +306,6 @@ Trinkets: Memento, Aggramar's
 * Antorus healer guide 
 
 <script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
-<script src="https://wow.zamimg.com/widgets/power.js"></script>
+<!--script src="https://wow.zamimg.com/widgets/power.js"></script-->
+
+Link: <{{ "https://wow.zamimg.com/widgets/power.js" }}>; rel=preload; as=script
