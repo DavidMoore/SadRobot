@@ -48,6 +48,15 @@ Max Foreground FPS:
 
 If using G-Sync or V-Sync, set to a frame or two above the maximum refresh rate of your monitor, and disable V-Sync.
 
+# Multi-Threading settings
+
+```
+SET gxMTPrepass "1"
+SET gxMTOpaque "1"
+SET gxMTDisable "0"
+SET gxMTBeginDraw "1"
+SET gxMTShadow "1"
+```
 
 ## References
 
