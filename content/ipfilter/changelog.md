@@ -4,7 +4,6 @@ description: "History of IPFilter Updater releases and changes"
 menu:
     ipfilter:
         weight: 100
-        parent: "ipfilter"
 ---
 
 ## 3.0.0 Beta 1

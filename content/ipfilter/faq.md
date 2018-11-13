@@ -4,7 +4,7 @@ description: "Frequently Asked Questions"
 menu:
     ipfilter:
         weight: 10
-        parent: "ipfilter"
+        
 ---
 
 ## FAQ
