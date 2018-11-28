@@ -2,6 +2,7 @@
 title: "IPFilter Updater"
 description: "Bit Torrent IPFilter Updater"
 url: /ipfilter/
+aliases: ["/blog/2009/05/27/set-up-ip-filtering-in-utorrent-and-keep-your-ipfilterdat-up-to-date-easily/", "/2009/05/27/set-up-ip-filtering-in-utorrent-and-keep-your-ipfilterdat-up-to-date-easily/"]
 menu:
     ipfilter:
         name: "Download"
