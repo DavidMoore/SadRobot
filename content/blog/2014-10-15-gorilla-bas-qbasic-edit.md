@@ -10,6 +10,7 @@ tags:
 - qbasic
 title: GORILLA.BAS, QBasic & Edit
 url: /blog/2014/10/15/gorilla-bas-qbasic-edit/
+aliases: /2014/10/15/gorilla-bas-qbasic-edit/
 ---
 
 Nostalgia time!

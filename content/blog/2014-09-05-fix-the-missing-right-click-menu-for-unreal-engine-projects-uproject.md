@@ -12,6 +12,7 @@ tags:
 - ut
 title: Fix the missing right click menu for Unreal Engine Projects (.uproject)
 url: /blog/2014/09/05/fix-the-missing-right-click-menu-for-unreal-engine-projects-uproject/
+aliases: /2014/09/05/fix-the-missing-right-click-menu-for-unreal-engine-projects-uproject/
 ---
 
 When you right click on an Unreal Engine project file (.uproject), these is the kind of menu options you should see:

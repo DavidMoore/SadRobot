@@ -12,6 +12,7 @@ tags:
 - opshop
 title: Opshop in London
 url: /blog/2008/06/19/opshop-in-london/
+aliases: /2008/06/19/opshop-in-london/
 ---
 
 <img src="http://farm4.static.flickr.com/3055/2592817220_27d52f1b81.jpg?v=0" alt="Opshop" width="500" height="375" />

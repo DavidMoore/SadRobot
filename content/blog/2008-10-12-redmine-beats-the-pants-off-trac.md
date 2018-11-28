@@ -12,6 +12,7 @@ tags:
 - trac
 title: Redmine beats the pants off Trac
 url: /blog/2008/10/12/redmine-beats-the-pants-off-trac/
+aliases: /2008/10/12/redmine-beats-the-pants-off-trac/
 ---
 
 <a title="Trac" href="http://trac.edgewall.org" target="_blank">Trac</a> is an extremely popular free issue tracker / wiki with source control integration. Many open source projects are using it.

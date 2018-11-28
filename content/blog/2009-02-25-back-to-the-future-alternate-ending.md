@@ -14,5 +14,6 @@ tags:
 - back to the future
 title: Back to the Future Alternate Ending
 url: /blog/2009/02/25/back-to-the-future-alternate-ending/
+aliases: /2009/02/25/back-to-the-future-alternate-ending/
 ---
 

@@ -13,6 +13,7 @@ tags:
 - orange
 title: Microsoft ASP.NET MVC goes to Beta
 url: /blog/2008/10/17/microsoft-aspnet-mvc-goes-to-beta/
+aliases: /2008/10/17/microsoft-aspnet-mvc-goes-to-beta/
 ---
 
 I'm currently using ASP.NET MVC to build the next-gen version of my CMS/App Framework Orange.

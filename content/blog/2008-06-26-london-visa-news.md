@@ -11,6 +11,7 @@ tags:
 - work
 title: London Visa News
 url: /blog/2008/06/26/london-visa-news/
+aliases: /2008/06/26/london-visa-news/
 ---
 
 News on the London front! I still have quite a few months left on my visa, but my 12 months of allowed work are nearly used up. This means I can still stay in London but won't be allowed to work.

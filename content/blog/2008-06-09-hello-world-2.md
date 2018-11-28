@@ -7,6 +7,7 @@ guid: http://davidmoore.info/?p=1
 id: 321
 title: Oh hai
 url: /blog/2008/06/09/hello-world-2/
+aliases: /2008/06/09/hello-world-2/
 ---
 
 <img class="alignleft" style="float: left;" src="http://icanhascheezburger.files.wordpress.com/2008/03/funny-pictures-oh-hai-bug.jpg" alt="Oh hai" />

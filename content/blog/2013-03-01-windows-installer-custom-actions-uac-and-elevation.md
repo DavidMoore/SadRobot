@@ -13,6 +13,7 @@ tags:
 - wix
 title: Windows Installer custom actions, UAC and elevation
 url: /blog/2013/03/01/windows-installer-custom-actions-uac-and-elevation/
+aliases: /2013/03/01/windows-installer-custom-actions-uac-and-elevation/
 ---
 
 We had a problem this week where a merge module from a third party was causing our installer to fail under UAC.

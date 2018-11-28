@@ -12,6 +12,7 @@ tags:
 - visual studio
 title: Visual Studio Performance
 url: /blog/2008/12/09/visual-studio-performance/
+aliases: /2008/12/09/visual-studio-performance/
 ---
 
 I'm running Visual Studio 2008 on a old, single-core laptop with 1GB RAM.

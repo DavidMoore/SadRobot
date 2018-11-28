@@ -7,6 +7,7 @@ guid: http://sadrobot.azurewebsites.net/?p=1
 id: 1
 title: Hello!
 url: /blog/2013/02/28/hello-world/
+aliases: /2013/02/28/hello-world/
 ---
 
 Hi, it's me!

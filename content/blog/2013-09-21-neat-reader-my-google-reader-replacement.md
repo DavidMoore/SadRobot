@@ -12,6 +12,7 @@ tags:
 - rss
 title: 'Neat Reader: My Google Reader replacement'
 url: /blog/2013/09/21/neat-reader-my-google-reader-replacement/
+aliases: /2013/09/21/neat-reader-my-google-reader-replacement/
 ---
 
 I already had the idea of writing my own feed reader on my list of things to do, so when news came out that Google were phasing Reader out, it naturally became my next hobby project.

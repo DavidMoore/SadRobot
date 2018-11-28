@@ -13,6 +13,7 @@ tags:
 title: 'Walkthrough: Using WinRT libraries from a Windows Desktop application'
 description: 'These are the steps for enabling WinRT libraries from within your Windows Desktop application. A more detailed walkthrough and explanation follows.'
 url: /blog/2014/10/17/walkthrough-using-winrt-libraries-from-a-windows-desktop-application/
+aliases: /2014/10/17/walkthrough-using-winrt-libraries-from-a-windows-desktop-application/
 toc: true
 ---
 

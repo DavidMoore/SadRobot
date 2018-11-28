@@ -11,6 +11,7 @@ tags:
 - Spain
 title: Last.fm says the country that best matches my musical taste is&#8230;
 url: /blog/2009/01/08/lastfm-says-the-country-that-best-matches-my-musical-taste-is/
+aliases: /2009/01/08/lastfm-says-the-country-that-best-matches-my-musical-taste-is/
 ---
 
 Spain! With a 25% score.

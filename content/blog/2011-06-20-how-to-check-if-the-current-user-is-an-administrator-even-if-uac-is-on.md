@@ -7,6 +7,7 @@ guid: http://www.davidmoore.info/2011/06/20/how-to-check-if-the-current-user-is-
 id: 415
 title: How to check if the current user is an Administrator (even if UAC is on)
 url: /blog/2011/06/20/how-to-check-if-the-current-user-is-an-administrator-even-if-uac-is-on/
+aliases: /2011/06/20/how-to-check-if-the-current-user-is-an-administrator-even-if-uac-is-on/
 ---
 
 There may be a scenario where you want to determine from code if the current user is an Administrator.

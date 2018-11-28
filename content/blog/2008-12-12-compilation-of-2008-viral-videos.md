@@ -12,5 +12,6 @@ tags:
 - viral
 title: Compilation of 2008 Viral Videos
 url: /blog/2008/12/12/compilation-of-2008-viral-videos/
+aliases: /2008/12/12/compilation-of-2008-viral-videos/
 ---
 

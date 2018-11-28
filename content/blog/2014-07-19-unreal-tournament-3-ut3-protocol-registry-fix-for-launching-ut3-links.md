@@ -8,6 +8,7 @@ guid: http://www.davidmoore.info/blog/?p=1301
 id: 1301
 title: Unreal Tournament 3 (UT3) Protocol Registry Fix for launching UT3 links
 url: /blog/2014/07/19/unreal-tournament-3-ut3-protocol-registry-fix-for-launching-ut3-links/
+aliases: /2014/07/19/unreal-tournament-3-ut3-protocol-registry-fix-for-launching-ut3-links/
 ---
 
 UT3, at least installed via Steam, doesn't seem to register a URI scheme in Windows so that you can create links to UT3 servers, as was possible in earlier versions of Unreal Tournament.

@@ -12,6 +12,7 @@ tags:
 - vmware
 title: System.BadImageFormatException
 url: /blog/2008/10/14/systembadimageformatexception/
+aliases: /2008/10/14/systembadimageformatexception/
 ---
 
 I'm currently build the new Overclockers New Zealand website in .NET

@@ -13,6 +13,7 @@ tags:
 - snifters
 title: Returning to New Zealand in December
 url: /blog/2008/10/19/returning-to-new-zealand-in-december/
+aliases: /2008/10/19/returning-to-new-zealand-in-december/
 ---
 
 Talking to the flatties, everyone's quite keen to come back to New Zealand a few months earlier than our visa expiration.

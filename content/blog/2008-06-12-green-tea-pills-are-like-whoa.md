@@ -10,6 +10,7 @@ tags:
 - green tea
 title: Green Tea Pills are like, whoa
 url: /blog/2008/06/12/green-tea-pills-are-like-whoa/
+aliases: /2008/06/12/green-tea-pills-are-like-whoa/
 ---
 
 So my workmate offers me a green tea pill this afternoon. I like green tea, and a green tea pill sounds healthy and good enough (if not a strange way to be getting your green tea).

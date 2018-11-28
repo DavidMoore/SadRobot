@@ -11,6 +11,7 @@ tags:
 - sql
 title: Finding duplicate rows in the database
 url: /blog/2008/10/17/finding-duplicate-rows-in-the-database/
+aliases: /2008/10/17/finding-duplicate-rows-in-the-database/
 ---
 
 **NOTE**: This post has been re-visited in [Finding duplicated data across one or more columns in a database table](/2009/02/28/finding-duplicated-data-across-one-or-more-columns-in-a-database-table/)

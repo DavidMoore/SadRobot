@@ -17,6 +17,7 @@ tags:
 - thumbnail
 title: Creating thumbnail images with automatic cropping and maintaining aspect ratio
 url: /blog/2009/02/07/creating-thumbnail-images-with-automatic-cropping-and-maintaining-aspect-ratio/
+aliases: /2009/02/07/creating-thumbnail-images-with-automatic-cropping-and-maintaining-aspect-ratio/
 ---
 
  Most thumbnail-generation solutions will shrink the original down while maintaining aspect ratio.

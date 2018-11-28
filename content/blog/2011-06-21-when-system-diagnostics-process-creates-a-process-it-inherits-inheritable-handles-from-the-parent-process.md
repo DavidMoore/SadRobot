@@ -8,6 +8,7 @@ id: 421
 title: When System.Diagnostics.Process creates a process, it inherits inheritable
   handles from the parent process.
 url: /blog/2011/06/21/when-system-diagnostics-process-creates-a-process-it-inherits-inheritable-handles-from-the-parent-process/
+aliases: /2011/06/21/when-system-diagnostics-process-creates-a-process-it-inherits-inheritable-handles-from-the-parent-process/
 ---
 
 This post covers the cause of a bug I ran into at work.

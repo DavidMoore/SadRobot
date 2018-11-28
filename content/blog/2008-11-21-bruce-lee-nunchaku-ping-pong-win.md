@@ -16,6 +16,7 @@ tags:
 - viral
 title: Bruce Lee + nunchaku + ping pong = win
 url: /blog/2008/11/21/bruce-lee-nunchaku-ping-pong-win/
+aliases: /2008/11/21/bruce-lee-nunchaku-ping-pong-win/
 ---
 
 A Bruce Lee edition N96. How cool is that?

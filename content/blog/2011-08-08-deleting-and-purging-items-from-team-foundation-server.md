@@ -14,6 +14,7 @@ tags:
 - tfs
 title: Deleting and purging items from Team Foundation Server
 url: /blog/2011/08/08/deleting-and-purging-items-from-team-foundation-server/
+aliases: /2011/08/08/deleting-and-purging-items-from-team-foundation-server/
 ---
 
 When you delete an item from TFS, it’s not actually permanently gone.

@@ -15,6 +15,7 @@ tags:
 - web
 title: Opera 10 Final Released
 url: /blog/2009/09/02/opera-10-final-released/
+aliases: /2009/09/02/opera-10-final-released/
 ---
 
 As promised, Opera 10 final was released on Sep 1st <a href="http://www.opera.com" target="_blank">http://www.opera.com/</a>

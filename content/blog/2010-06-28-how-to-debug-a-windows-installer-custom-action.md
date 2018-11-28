@@ -15,6 +15,7 @@ tags:
 - msibreak
 title: 'HOW TO: Debug a Windows Installer custom action'
 url: /blog/2010/06/28/how-to-debug-a-windows-installer-custom-action/
+aliases: /2010/06/28/how-to-debug-a-windows-installer-custom-action/
 ---
 
 ## Prerequisites:

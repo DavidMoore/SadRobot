@@ -19,5 +19,6 @@ tags:
 - punked
 title: Bouncer Win
 url: /blog/2009/04/15/bouncer-win/
+aliases: /2009/04/15/bouncer-win/
 ---
 

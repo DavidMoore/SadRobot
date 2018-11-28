@@ -13,6 +13,7 @@ tags:
 - scan
 title: Manually schedule a disk check at next restart
 url: /blog/2011/08/04/manually-schedule-a-disk-check-at-next-restart/
+aliases: /2011/08/04/manually-schedule-a-disk-check-at-next-restart/
 ---
 
 You can schedule a chkdsk at reboot time for a drive by using the Windows command line utility [fsutil](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/fsutil.mspx "FSUtil @ microsoft.com").

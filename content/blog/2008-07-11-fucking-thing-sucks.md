@@ -13,6 +13,7 @@ tags:
 - toad
 title: Fucking thing SUCKS
 url: /blog/2008/07/11/fucking-thing-sucks/
+aliases: /2008/07/11/fucking-thing-sucks/
 ---
 
 You've probably already seen the infamous Bill O'Reilly flips out video. If not, here it is:

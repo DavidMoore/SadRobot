@@ -10,6 +10,7 @@ tags:
 - visual studio
 title: Office Developer Tools for Visual Studio 2012 Released
 url: /blog/2013/03/06/office-developer-tools-for-visual-studio-2012-released/
+aliases: /2013/03/06/office-developer-tools-for-visual-studio-2012-released/
 ---
 
 The Visual Studio 2012 extensions for developing Office 2013 and Office 365 applications is now officially released. 

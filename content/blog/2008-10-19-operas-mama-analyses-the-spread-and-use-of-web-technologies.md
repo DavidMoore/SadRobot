@@ -17,6 +17,7 @@ tags:
 - web
 title: Opera's MAMA analyses the spread and use of web technologies
 url: /blog/2008/10/19/operas-mama-analyses-the-spread-and-use-of-web-technologies/
+aliases: /2008/10/19/operas-mama-analyses-the-spread-and-use-of-web-technologies/
 ---
 
 The Opera guys have created a project called **MAMA** &#8211; "Metadata Analysis and Mining Application". It is designed to trawl the web and analyse what technologies and techniques are actually being used in web pages.

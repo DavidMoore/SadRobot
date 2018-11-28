@@ -16,6 +16,7 @@ tags:
 - skit
 title: Where&#226;&#8364;&#8482;d I get my bag?
 url: /blog/2009/02/27/whered-i-get-my-bag/
+aliases: /2009/02/27/whered-i-get-my-bag/
 ---
 
 Land for Bags, of course!

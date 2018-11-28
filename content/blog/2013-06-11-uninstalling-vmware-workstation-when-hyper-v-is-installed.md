@@ -7,6 +7,7 @@ guid: http://www.sadrobot.co.nz/?p=671
 id: 671
 title: Uninstalling VMWare Workstation when Hyper-V is installed
 url: /blog/2013/06/11/uninstalling-vmware-workstation-when-hyper-v-is-installed/
+aliases: /2013/06/11/uninstalling-vmware-workstation-when-hyper-v-is-installed/
 ---
 
 Well, it was annoying enough that VMWare doesn’t launch on my machine when Hyper-V is installed. I’m skeptical that VMWare wouldn’t run if Hyper-V isn’t running at the same time, and this check just reeks of anti-competition.

@@ -17,6 +17,7 @@ tags:
 title: 'HOW TO: Detect if the Visual C++ 2010 redistributable package is installed
   with WiX'
 url: /blog/2010/06/30/how-to-detect-if-the-visual-c-2010-redistributable-package-is-installed-with-wix-2/
+aliases: /2010/06/30/how-to-detect-if-the-visual-c-2010-redistributable-package-is-installed-with-wix-2/
 ---
 
 As noted by Aaron Stebner, there is now a registry key you can search for to detect if the Visual C++ 2010 redistributable package is installed a machine, when installing your application.

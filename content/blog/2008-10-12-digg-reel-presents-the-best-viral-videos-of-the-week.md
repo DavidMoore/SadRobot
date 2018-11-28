@@ -12,6 +12,7 @@ tags:
 - TV
 title: Digg Reel presents the best viral videos of the week
 url: /blog/2008/10/12/digg-reel-presents-the-best-viral-videos-of-the-week/
+aliases: /2008/10/12/digg-reel-presents-the-best-viral-videos-of-the-week/
 ---
 
 [<img class="alignright" title="Digg Reel" src="http://bitcast-a.bitgravity.com/revision3/images/shows/diggreel/0040/diggreel--0040--geeklicious--medium.thumb.jpg" alt="" width="300" height="169" />](http://revision3.com/diggreel/)

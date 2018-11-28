@@ -20,6 +20,7 @@ tags:
 - wheelchair
 title: Play him off, Keyboard Cat
 url: /blog/2009/04/15/play-him-off-keyboard-cat/
+aliases: /2009/04/15/play-him-off-keyboard-cat/
 ---
 
 Introducing Keyboard Cat Play them off, Keyboard Cat This one's pretty brutal, I'm going to hell:

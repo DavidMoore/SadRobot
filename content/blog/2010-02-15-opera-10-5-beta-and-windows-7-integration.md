@@ -13,6 +13,7 @@ tags:
 - windows 7
 title: Opera 10.5 Beta and Windows 7 Integration
 url: /blog/2010/02/15/opera-10-5-beta-and-windows-7-integration/
+aliases: /2010/02/15/opera-10-5-beta-and-windows-7-integration/
 ---
 
 [Opera 10.5 Beta](http://www.opera.com/browser/next/) is out and it's very impressive, and looks pretty stunning due to its Windows 7 integration.

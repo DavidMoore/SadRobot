@@ -11,6 +11,7 @@ id: 1081
 title: 'Using MSBuild property functions and inline tasks: Example doing performance
   calculations'
 url: /blog/2014/07/19/using-msbuild-property-functions-and-inline-tasks-example-doing-performance-calculations/
+aliases: /2014/07/19/using-msbuild-property-functions-and-inline-tasks-example-doing-performance-calculations/
 ---
 
 ## The Problem

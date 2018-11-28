@@ -16,6 +16,7 @@ tags:
 - tcpview
 title: ESET NOD32 Antivirus and Proxies
 url: /blog/2009/01/17/eset-nod32-antivirus-and-proxies/
+aliases: /2009/01/17/eset-nod32-antivirus-and-proxies/
 ---
 
 Today I'm working on a .NET hobby project.

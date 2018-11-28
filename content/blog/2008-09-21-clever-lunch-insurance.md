@@ -11,6 +11,7 @@ tags:
 - sandwich
 title: Clever Lunch Insurance
 url: /blog/2008/09/21/clever-lunch-insurance/
+aliases: /2008/09/21/clever-lunch-insurance/
 ---
 
 I've never been one to pack a lunch for work, especially sandwiches (MEH @ sandwiches). So noone's ever stolen my lunch from the office fridge, but then I don't know who does those kinds of things.

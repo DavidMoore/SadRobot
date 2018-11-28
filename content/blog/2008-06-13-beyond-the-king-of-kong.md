@@ -16,6 +16,7 @@ tags:
 - Videos
 title: Beyond "The King of Kong"
 url: /blog/2008/06/13/beyond-the-king-of-kong/
+aliases: /2008/06/13/beyond-the-king-of-kong/
 ---
 
 If you haven't watched The King of Kong, I highly recommend it.

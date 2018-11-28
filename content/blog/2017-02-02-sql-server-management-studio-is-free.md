@@ -12,6 +12,7 @@ tags:
 - "02"
 title: SQL Server Management Studio is Free
 url: /blog/2017/02/02/sql-server-management-studio-is-free/
+aliases: /2017/02/02/sql-server-management-studio-is-free/
 ---
 
 SQL Server Management Studio aka SSMS is available to download and use for free from Microsoft. You do not require a SQL Server license.

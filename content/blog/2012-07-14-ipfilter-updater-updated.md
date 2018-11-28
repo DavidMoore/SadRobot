@@ -11,6 +11,7 @@ tags:
 - utorrent
 title: IPFilter Updater&#8230; Updated!
 url: /blog/2012/07/14/ipfilter-updater-updated/
+aliases: /2012/07/14/ipfilter-updater-updated/
 ---
 
 I've made some minor changes to the IPFilter Updater.

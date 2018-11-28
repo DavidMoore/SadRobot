@@ -12,6 +12,7 @@ tags:
 - van damme
 title: A new Jean-Claude Van Damme movie worth seeing?
 url: /blog/2008/10/13/a-new-jean-claude-van-damme-movie-worth-seeing/
+aliases: /2008/10/13/a-new-jean-claude-van-damme-movie-worth-seeing/
 ---
 
 Jean-Claude Van Damme playing himself in an action comedy? The trailer actually looks half good, and it has positive reviews so far.

@@ -11,6 +11,7 @@ tags:
 - ReSharper
 title: Dependency Property ReSharper Live Template
 url: /blog/2010/07/06/dependency-property-resharper-live-template/
+aliases: /2010/07/06/dependency-property-resharper-live-template/
 ---
 
 [Dependency Property ReSharper Live Template](http://www.sadrobot.co.nz/wp-content/uploads/2010/07/DependencyPropertyLiveTemplate.zip)

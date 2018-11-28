@@ -15,6 +15,7 @@ tags:
 - useLegacyV2RuntimeActivationPolicy
 title: Running .NET 2 Runtime applications under the .NET 4 Runtime
 url: /blog/2010/12/17/running-net-2-runtime-applications-under-the-net-4-runtime/
+aliases: /2010/12/17/running-net-2-runtime-applications-under-the-net-4-runtime/
 ---
 
 In some situations, you might want to run a .NET 2 Runtime application (.NET 2, 3.0, 3.5 SP1 etc) under the .NET 4 Runtime &#8211; without recompiling.

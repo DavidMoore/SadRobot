@@ -11,6 +11,7 @@ tags:
 - Rugby
 title: Baby Blacks give Ireland beating; David Moore pinged for high tackle
 url: /blog/2008/06/13/baby-blacks-give-ireland-beating-david-moore-pinged-for-high-tackle/
+aliases: /2008/06/13/baby-blacks-give-ireland-beating-david-moore-pinged-for-high-tackle/
 ---
 
 The New Zealand Under-20 rugby team is playing in the inaugural IRB Junior World Championship and just thrashed Ireland 65-10.

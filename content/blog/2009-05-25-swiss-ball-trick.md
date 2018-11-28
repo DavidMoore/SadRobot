@@ -14,5 +14,6 @@ tags:
 - swiss ball
 title: Swiss ball trick
 url: /blog/2009/05/25/swiss-ball-trick/
+aliases: /2009/05/25/swiss-ball-trick/
 ---
 

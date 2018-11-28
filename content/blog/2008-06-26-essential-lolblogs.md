@@ -11,6 +11,7 @@ tags:
 - loldogs
 title: Essential lolblogs
 url: /blog/2008/06/26/essential-lolblogs/
+aliases: /2008/06/26/essential-lolblogs/
 ---
 
 You need to add these sites to your feed reader or make sure you check them everyday. Guaranteed to give you a laugh at least once a day, no matter how bad it's going.

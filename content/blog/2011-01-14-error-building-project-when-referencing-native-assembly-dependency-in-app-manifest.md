@@ -12,6 +12,7 @@ tags:
 - sxs
 title: Error building project when referencing native assembly dependency in app.manifest
 url: /blog/2011/01/14/error-building-project-when-referencing-native-assembly-dependency-in-app-manifest/
+aliases: /2011/01/14/error-building-project-when-referencing-native-assembly-dependency-in-app-manifest/
 ---
 
 If you're using an app.manifest, and defining assembly dependencies (i.e. for SxS / Side by side / Reg-free COM etc), you may encounter this error when you build the project:

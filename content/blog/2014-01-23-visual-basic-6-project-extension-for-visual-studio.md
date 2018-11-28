@@ -9,6 +9,7 @@ tags:
 - vb6
 title: Visual Basic 6 project extension for Visual Studio
 url: /blog/2014/01/23/visual-basic-6-project-extension-for-visual-studio/
+aliases: /2014/01/23/visual-basic-6-project-extension-for-visual-studio/
 ---
 
 I’ve just published a new release of my Visual Studio extension that allows converting VB6 projects to a project that can be loaded and built in Visual Studio.

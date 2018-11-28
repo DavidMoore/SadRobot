@@ -8,6 +8,7 @@ guid: http://www.davidmoore.info/?p=288
 id: 288
 title: Building Visual Studio 2010 Solutions in Team Foundation Server Build 2008
 url: /blog/2010/06/22/building-visual-studio-2010-solutions-in-team-foundation-server-build-2008/
+aliases: /2010/06/22/building-visual-studio-2010-solutions-in-team-foundation-server-build-2008/
 ---
 
 Visual Studio 2010 and Team Foundation Server 2010 have been out for a while. But what if you still have Team Foundation Server 2008 but want to build Visual Studio 2010 solutions on it?

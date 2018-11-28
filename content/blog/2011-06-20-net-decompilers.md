@@ -7,6 +7,7 @@ guid: http://www.davidmoore.info/2011/06/20/net-decompilers/
 id: 420
 title: .NET Decompilers
 url: /blog/2011/06/20/net-decompilers/
+aliases: /2011/06/20/net-decompilers/
 ---
 
 ## Reflector history

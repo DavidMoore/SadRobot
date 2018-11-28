@@ -9,6 +9,7 @@ tags:
 - visual studio
 title: "Error C2039: 'SetDefaultDllDirectories' when targetting Visual Studio 2012 Windows XP C++ Runtime"
 url: /blog/2013/05/27/error-c2039-setdefaultdlldirectories-when-targetting-visual-studio-2012-windows-xp-c-runtime/
+aliases: /2013/05/27/error-c2039-setdefaultdlldirectories-when-targetting-visual-studio-2012-windows-xp-c-runtime/
 ---
 
 We’re switching our legacy C++ projects from Visual C++ 2010 to the Visual C++ 2012 Runtime, now that Microsoft allows you to <a href="http://blogs.msdn.com/b/vcblog/archive/2012/10/08/10357555.aspx" target="_blank">target Windows XP for C++ in 2012</a> (available in Visual Studio Update 1).

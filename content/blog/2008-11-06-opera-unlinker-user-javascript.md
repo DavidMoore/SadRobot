@@ -12,6 +12,7 @@ tags:
 - userjs
 title: Opera "Unlinker" User JavaScript
 url: /blog/2008/11/06/opera-unlinker-user-javascript/
+aliases: /2008/11/06/opera-unlinker-user-javascript/
 ---
 
 It's quite common on many websites, particularly forums, to post links to images.

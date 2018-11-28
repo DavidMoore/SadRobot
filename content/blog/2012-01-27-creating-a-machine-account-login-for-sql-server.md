@@ -7,6 +7,7 @@ guid: http://www.davidmoore.info/2012/01/27/creating-a-machine-account-login-for
 id: 520
 title: Creating a machine account login for SQL Server
 url: /blog/2012/01/27/creating-a-machine-account-login-for-sql-server/
+aliases: /2012/01/27/creating-a-machine-account-login-for-sql-server/
 ---
 
 You can create a machine account login for SQL Server with the following command:

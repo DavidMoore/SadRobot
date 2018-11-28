@@ -11,6 +11,7 @@ tags:
 - msbuild
 title: Debugging MSBuild scripts
 url: /blog/2011/07/28/debugging-msbuild-scripts/
+aliases: /2011/07/28/debugging-msbuild-scripts/
 ---
 
 If you want to debug an MSBuild script from without Visual Studio, you need to use the /debug command line option.

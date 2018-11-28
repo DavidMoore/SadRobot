@@ -7,6 +7,7 @@ guid: http://www.davidmoore.info/2011/07/18/generating-a-type-library-for-visual
 id: 430
 title: Generating a type library for Visual Basic 6 ActiveX Components
 url: /blog/2011/07/18/generating-a-type-library-for-visual-basic-6-activex-components/
+aliases: /2011/07/18/generating-a-type-library-for-visual-basic-6-activex-components/
 ---
 
 When generating setup code or isolation code (for Side by Side assemblies and Registration-free COM), VB6 ActiveX Components can be a little troublesome.

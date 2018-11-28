@@ -8,6 +8,7 @@ tags:
 - sql server
 author: David
 url: /blog/2018/01/14/sql-operations-studio/
+aliases: /2018/01/14/sql-operations-studio/
 description: Microsoft has released a preview version of a free new SQL Management product
 ---
 ## SQL Operations Studio Released

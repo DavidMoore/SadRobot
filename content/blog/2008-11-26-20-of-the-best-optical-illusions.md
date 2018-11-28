@@ -11,6 +11,7 @@ tags:
 - optical illusion
 title: 20 of the best optical illusions
 url: /blog/2008/11/26/20-of-the-best-optical-illusions/
+aliases: /2008/11/26/20-of-the-best-optical-illusions/
 ---
 
 [20 Top Optical Illusions [Telegraph.co.uk]](http://www.telegraph.co.uk/news/newstopics/howaboutthat/3520448/Optical-Illusions---the-top-20.html "Top 20 Optical Illusions")

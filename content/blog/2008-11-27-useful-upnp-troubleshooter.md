@@ -11,6 +11,7 @@ tags:
 - UPnP
 title: Useful UPnP Troubleshooter
 url: /blog/2008/11/27/useful-upnp-troubleshooter/
+aliases: /2008/11/27/useful-upnp-troubleshooter/
 ---
 
 Universal Plug & Play aka UPnP is used by a lot of networking devices and software to communicate with each other for automatic setup/installation.
