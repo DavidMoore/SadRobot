@@ -18,15 +18,15 @@ menu:
 
 | Keystone Level | End of Dungeon | Weekly Chest | Azerite Armor (Weekly Chest) |
 |----------------|----------------|--------------|------------------------------|
-| Mythic 2 | 345 | 355 | 340 |
+| Mythic 2 (Fort/Tyr) | 345 | 355 | 340 |
 | Mythic 3 | 345 | 355 | 340 |
-| Mythic 4 | 350 | 360 | 355 |
+| Mythic 4 (Affix 1) | 350 | 360 | 355 |
 | Mythic 5 | 355 | 360 | 355 |
 | Mythic 6 | 355 | 365 | 355 |
-| Mythic 7 | 360 | 370 | 370 |
+| Mythic 7 (Affix 2) | 360 | 370 | 370 |
 | Mythic 8 | 365 | 370 | 370 |
 | Mythic 9 | 365 | 375 | 370 |
-| Mythic 10+ | 370 | 380 | 385 |
+| Mythic 10+ (Seasonal Affix) | 370 | 380 | 385 |
 
 # Affix Schedule
 

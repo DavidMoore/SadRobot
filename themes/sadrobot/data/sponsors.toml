@@ -1,8 +1,8 @@
 [[banners]]
 name = "IPFilter Updater.io"
-link = "https://davidmoore.github.io/ipfilter/"
-logo = "/images/sponsors/forestry-logotype.svg"
-copy = ""
+link = "/ipfilter/"
+logo = "/images/third-party/jetbrains/jetbrains.svg"
+copy = "Testing"
 
 [[banners]]
 name = ""
