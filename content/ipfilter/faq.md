@@ -34,3 +34,9 @@ It will make it easier to download a list, and keep it up to date
 I do not maintain any of the lists.
 
 I try to keep a variety of third party list options available, but the availability and quality of free, up to date lists seems to be dwindling.
+
+### Where does the filter get downloaded to?
+
+The ipfilter.dat is downloaded to your local user profile in a directory called IPFilter i.e. `%LocalAppData%\IPFilter\ipfilter.dat`
+
+For example, if your username is Bob and you were on Windows 7 or higher, then the location by default would resolve to `C:\Users\Bob\AppData\Local\IPFilter\ipfilter.dat`
