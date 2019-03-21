@@ -1,6 +1,7 @@
 ---
 title: Legion Protection Paladin
 description: Legion Protection Paladin Guide
+toc: true
 menu:
     games:
         parent: "legion"

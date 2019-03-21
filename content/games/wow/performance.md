@@ -9,6 +9,20 @@ menu:
         name: "Settings"
 ---
 
+# UI Scale
+
+Set the UI scale to 768 / (screen height.
+
+e.g. 768 / 1440 = 0.5333
+
+/script print(GetCVar("useUiScale"))
+/script print(GetCVar("uiScale"))
+/script print(UIParent:GetScale())
+
+/script SetCVar("useUiScale", 1);
+/script SetCVar("uiScale", 0.53333);
+/script UIParent:SetScale(0.5333)
+
 # System > Graphics
 
 Always have these on:
@@ -26,7 +40,7 @@ Anti-Aliasing:
 
 | Setting | Description | Recommendation |
 |----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Triple Buffering | Smooths our framerate and eliminates tearing, but introduces input lag. | Disabled  |
+| Triple Buffering | Smooths out framerate and eliminates tearing, but introduces input lag. | Disabled  |
 | Reduce Input Lag | Reduces input lag but can impact framerate | Disabled |
 | MSAA | Configures the colour / depth of MSAA setting | None |
 | Multisample Alpha-test | Sample frequency rather than pixel frequency for MSAA | Enabled |
