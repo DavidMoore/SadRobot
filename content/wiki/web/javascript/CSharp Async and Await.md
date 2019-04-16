@@ -1,6 +1,5 @@
 ---
 title: CSharp Async & Await
-layout: page
 ---
 
 # Asynchronous programming in C#

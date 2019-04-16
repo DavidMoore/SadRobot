@@ -1,3 +1,11 @@
+---
+title: YAGNI
+menu:
+    wiki:
+        parent: principles
+description: An explanation of YAGNI
+---
+
 YAGNI
 =====
 

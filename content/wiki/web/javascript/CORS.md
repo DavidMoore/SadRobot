@@ -1,6 +1,5 @@
 ---
 title: Cross-Origin Resource Sharing (CORS)
-layout: page
 ---
 #Cross-Origin Resource Sharing (CORS)
 

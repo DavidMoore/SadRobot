@@ -1,4 +1,10 @@
-# Error Codes
+---
+id: 392
+title: Error Codes
+date: 2010-12-17T10:38:15+00:00
+description: Common error codes, causes and solutions.
+parent: debugging
+---
 
 ## HRESULT
 
@@ -8,22 +14,14 @@ The HRESULT numbering space is vendor-extensible. Vendors can supply their own v
 
 The HRESULT numbering space has the following internal structure. Any protocol that uses NTSTATUS values on the wire is responsible for stating the order in which the bytes are placed on the wire.
 
-S (1 bit): Severity. If set, indicates a failure result. If clear, indicates a success result.
-R (1 bit): Reserved. If the N bit is clear, this bit MUST be set to 0. If the N bit is set, this bit is defined by the NTSTATUS numbering space (as specified in section 2.3).
-C (1 bit): Customer. This bit specifies if the value is customer-defined or Microsoft-defined. The bit is set for customer-defined values and clear for Microsoft-defined values.<1>
-N (1 bit): If set, indicates that the error code is an NTSTATUS value (as specified in section 2.3), except that this bit is set.
-X (1 bit):  Reserved.  SHOULD be set to 0. <2>
-Facility (11 bits): An indicator of the source of the error. New facilities are occasionally added by Microsoft.
-Code (16 bits)
+* S (1 bit): Severity. If set, indicates a failure result. If clear, indicates a success result.
+* R (1 bit): Reserved. If the N bit is clear, this bit MUST be set to 0. If the N bit is set, this bit is defined by the NTSTATUS numbering space (as specified in section 2.3).
+* C (1 bit): Customer. This bit specifies if the value is customer-defined or Microsoft-defined. The bit is set for customer-defined values and clear for Microsoft-defined values.<1>
+* N (1 bit): If set, indicates that the error code is an NTSTATUS value (as specified in section 2.3), except that this bit is set.
+* X (1 bit):  Reserved.  SHOULD be set to 0. <2>
+* Facility (11 bits): An indicator of the source of the error. New facilities are occasionally added by Microsoft.
+* Code (16 bits)
 
----
-id: 392
-title: Error Codes
-date: 2010-12-17T10:38:15+00:00
-author: David
-guid: http://www.davidmoore.info/?page_id=392
----
-Common error codes, causes and solutions.
 
 <table border="0" cellspacing="2" cellpadding="2" width="891">
   <tr>

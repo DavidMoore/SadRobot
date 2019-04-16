@@ -4,8 +4,7 @@ description: "Developing for and integrating with Microsoft Dynamics 365 CRM"
 toc: true
 menu:
     wiki:
-        name: "Microsoft Dynamics 365 CRM"
-        //parent: ".NET"
+        parent: "dynamics"
         weight: 30
 ---
 

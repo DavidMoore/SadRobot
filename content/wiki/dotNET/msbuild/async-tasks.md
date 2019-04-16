@@ -1,6 +1,10 @@
+---
+title: Async Tasks
+description: Using async code in custom MSBuild tasks
+---
 # Async Tasks
 
-You can use async / await:
+You can use async in MSBuild tasks using a pattern like this:
 
 ```
 public class MyCustomTask : Task {
@@ -20,3 +24,7 @@ public class MyCustomTask : Task {
 }
 
 ```
+
+Here, the default Task Execute implementation simply calls an async method (in a synchronous manner obviously).
+
+This allows you to consume APIs that expose async methods, as the async/await becomes more pervasive.

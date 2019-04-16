@@ -1,4 +1,6 @@
-# Gulp
+---
+title:  Gulp
+---
 
 Gulp is a JavaScript build tool.
 

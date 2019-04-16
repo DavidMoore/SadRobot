@@ -1,5 +1,6 @@
-JavaScript for C# Developers
-============================
+---
+title: JavaScript for C# Developers
+---
 
 Objects
 -------

@@ -1,5 +1,9 @@
 ---
 title: Covariance & Contravariance
+parent: "net"
+menu:
+    wiki:
+        parent: "net"
 ---
 
 * Covariant if it preserves the ordering of types (≤), which orders types from more specific to more generic;

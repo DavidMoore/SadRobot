@@ -5,7 +5,7 @@ description: "Explanation of the Visitor pattern, with implementations in C#"
 menu:
     wiki:
         name: "Visitor Pattern"
-        parent: ".NET"
+        parent: "net"
         weight: 30
 ---
 

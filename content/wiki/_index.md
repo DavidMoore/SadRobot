@@ -1,8 +1,9 @@
 ---
-type: page
 alias: /docs/
 title: "Developedia"
 description: "Software Development Wiki"
-draft: true
-nav: "docs"
+nav: "wiki"
+toc: true
 ---
+
+Software Development Wiki

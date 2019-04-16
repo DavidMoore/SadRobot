@@ -1,3 +1,11 @@
+---
+title: SOLID
+menu:
+    wiki:
+        parent: principles
+description: Description of the 5 principles and practices that make up the SOLID acronym
+---
+
 S.O.L.I.D.
 ==========
 

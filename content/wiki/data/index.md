@@ -1,7 +1,0 @@
-Data
-----------------
-
-.. toctree::
-   :titlesonly:
-
-   cassandra

@@ -1,6 +1,5 @@
 ---
-title: JavaScript
-layout: page
+title: JavaScript Patterns
 ---
 #JavaScript Patterns
 
