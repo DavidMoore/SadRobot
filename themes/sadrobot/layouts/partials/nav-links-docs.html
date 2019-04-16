@@ -1,7 +1,7 @@
 {{ $currentPage := . }}
 <nav role="navigation">
   <ul class="list pa0 nl2">
-    {{ range .Site.Menus.blog.ByWeight }}
+    {{ range .Site.Menus.docs.ByWeight }}
       {{ $post := printf "%s" .Post }}
       <li class="f5 w-100 hover-bg-light-gray hover-accent-color-light fw8{{ if eq $post "break" }} mb1 bb b--moon-gray{{ end }}">
         <a href="{{ if .HasChildren }}javascript:void(0){{ else }}{{ .URL }}{{ end }}" class="js-toggle dib w-100 link mid-gray hover-accent-color-light pl2 pr2 pv2 {{if or ($currentPage.IsMenuCurrent "blog" .) ($currentPage.HasMenuCurrent "docs" .) }} primary-color{{end}}" data-target=".{{ .Name | urlize }}">{{ .Name }}</a>
