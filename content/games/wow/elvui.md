@@ -3,6 +3,7 @@ title: ElvUI Updater
 aliases: [/elvui/]
 toc: true
 description: A small utility that will update your ElvUI to the latest version.
+weight: 10
 menu:
     games:
         parent: "wow"

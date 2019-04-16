@@ -4,7 +4,7 @@ description: Mythic+ Paladin Guide
 toc: true
 menu:
     games:
-        parent: "wow"
+        parent: "bfa"
         weight: 20
 ---
 
@@ -92,6 +92,10 @@ Azerite pieces can be scrapped for Titan Residuum for the following amounts:
 * Dungeon starts with 1 shared cooldown combat rez
 * A new combat rez charge is added every 10 mins
 * Combat rez charges max out at 5
+
+## Weakauras
+
+* M+ Automatic Unitmarker https://wago.io/3bViaBtT1
 
 
 ## Affixes
