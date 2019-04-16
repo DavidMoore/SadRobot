@@ -3,6 +3,10 @@ toc: true
 title: Commandline
 description: Commandline arguments
 aliases: [/ipfilter/commandline]
+menu:
+    ipfilter:
+        parent: ipfilter
+        weight: 40
 ---
 # Command Line
 

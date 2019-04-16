@@ -2,6 +2,10 @@
 toc: true
 title: Architecture
 description: IPFilter Architecture
+menu:
+    ipfilter:
+        parent: ipfilter
+        weight: 50
 ---
 The IPFilter updater takes in a set of one or more inputs, and one or more outputs.
 

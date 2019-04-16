@@ -3,11 +3,9 @@ title: "FAQ"
 description: "Frequently Asked Questions"
 menu:
     ipfilter:
-        weight: 10
-        
+        parent: ipfilter
+        weight: 20       
 ---
-
-## FAQ
 
 ### What is IPFilter Updater?
 
