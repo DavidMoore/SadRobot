@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ $section_to_display :=  .Sections | default .Paginator.Pages }}
-    <div class="w-100 ph4 pb5 pb6-ns pt1 mt4 pt3-ns">
+<div class="w-100 ph4 pb5  pt1 mt4 pt3-ns">
 
   <div class="flex">
     <div class="dn db-l w-20">
@@ -32,6 +32,19 @@
 
   </div>
 
+
+</div>
+
+<div class="w-100 bg-light-gray">
+  <div class="mw7 pa4 center nested-lh-copy lh-copy">
+    {{ partial "docs/page-meta-data.html" . }}
+    {{ partial "page-edit.html" . }}
+    {{ partial "tags.html" . }}
+  </div>
+</div>
+
+<div class="w-60-l ph0 ph5-ns center">
+  {{ partial "comments.html" .}}
 </div>
 
 {{ end }}
