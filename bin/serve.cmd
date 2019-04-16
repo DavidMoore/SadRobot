@@ -1,3 +1,3 @@
 @echo off
-CD ..
+cd "%~dp0\..\"
 hugo serve
