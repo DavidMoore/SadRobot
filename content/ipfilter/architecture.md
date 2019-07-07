@@ -7,6 +7,12 @@ menu:
         parent: ipfilter
         weight: 50
 ---
+
+
+{{% note %}}
+This documentation is a bit out of date and won't be updated for at least a few weeks
+{{% /note %}}
+
 The IPFilter updater takes in a set of one or more inputs, and one or more outputs.
 
 IPFilter acquires and merges all of the inputs, and generates the output result.

@@ -10,7 +10,9 @@ menu:
 ---
 # Command Line
 
-You can control IPFilter Update from the command line easily.
+{{% note %}}
+The command line and its documentation is in a state of flux. Please get in contact with any suggestions or issues for how you want it to work.
+{{% /note %}}
 
 ## Syntax
 
@@ -25,6 +27,13 @@ You can control IPFilter Update from the command line easily.
 `/service`
 
 > Instruct IPFilter to register itself as a Windows service, and start running.
+
+service install
+service uninstall
+`service` Run as a service
+`service install` hugo server
+
+
 
 ## Supported file formats
 

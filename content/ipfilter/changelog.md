@@ -7,6 +7,25 @@ menu:
         weight: 30
 ---
 
+## 3.0.1 Beta
+
+### New
+
+* The options windows is back, starting with some basic settings, but with more to come
+  * You may disable the software update check when IPFilter starts (enable this in the Options)
+  * Try the latest features by enabling pre-release updates
+  * Get IPFilter to schedule itself to do an automatic silent update of the list every day
+
+### Improvements
+
+* Performance improvements when loading, merging and outputting lists
+* A link button to open the log file using your default editor
+* The exe and installer are now signed using a code signing certificate for authenticity
+
+### Changes
+
+* Removed the old app.config / user.config settings; settings are now stored in settings.json
+
 ## 3.0.0 Beta 2
 
 ### New

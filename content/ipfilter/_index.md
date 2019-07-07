@@ -18,11 +18,24 @@ This utility downloads and installs a selected list for your Bit Torrent client.
 
 <a href="https://github.com/DavidMoore/ipfilter/releases/download/3.0.1.4-beta/IPFilter.msi" class="f3 ph3 pv1 br2 dib bg-accent-color-dark hover-bg-blue link white">Download 3.0.1 Beta</a>
 
+{{% note %}}
+You can log issues, suggestions or questions at the [GitHub project page](https://github.com/DavidMoore/ipfilter/issues/).
+{{% /note %}}
+
 #### Supported BitTorrent Applications
 
 * qBitTorrent (recommended)
 * μTorrent
 * Bit Torrent
+* eMule
+
+Pending:
+
+* Transmission
+* Vuze
+* Deluge
+* Tixati
+* FrostWire
 
 {{% note %}}
 Is your preferred Bit Torrent client not on this list? [Request Application Support](https://github.com/DavidMoore/ipfilter/issues/new?labels=feature&title=Support%20new%20application:).
