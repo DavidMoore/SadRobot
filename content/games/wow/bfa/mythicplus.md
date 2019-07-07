@@ -98,6 +98,8 @@ Azerite pieces can be scrapped for Titan Residuum for the following amounts:
 * M+ Automatic Unitmarker https://wago.io/3bViaBtT1
 
 
+
+
 ## Affixes
 
 | Affix | Holy | Protection |
