@@ -7,6 +7,13 @@ menu:
         weight: 30
 ---
 
+## 3.0.2 Beta
+
+### Fixes
+
+* #58 Silent list update was installing empty blocklists 
+* #27 Japanese path support
+
 ## 3.0.1 Beta
 
 ### New

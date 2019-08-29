@@ -16,7 +16,7 @@ The ipfilter.dat file helps protect your privacy and security when using Bit Tor
 
 This utility downloads and installs a selected list for your Bit Torrent client.
 
-<a href="https://github.com/DavidMoore/ipfilter/releases/download/3.0.1.4-beta/IPFilter.msi" class="f3 ph3 pv1 br2 dib bg-accent-color-dark hover-bg-blue link white">Download 3.0.1 Beta</a>
+<a href="https://github.com/DavidMoore/ipfilter/releases/download/3.0.2.3-beta/IPFilter.msi" class="f3 ph3 pv1 br2 dib bg-accent-color-dark hover-bg-blue link white">Download 3.0.2 Beta</a>
 
 {{% note %}}
 You can log issues, suggestions or questions at the [GitHub project page](https://github.com/DavidMoore/ipfilter/issues/).
