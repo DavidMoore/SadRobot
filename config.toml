@@ -27,9 +27,9 @@ pygmentsUseClassic = false
 pygmentsStyle = "friendly"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
-section = [ "HTML", "RSS", "JSON"]
-page = ["HTML", "JSON"]
+home = [ "HTML", "RSS"]
+section = [ "HTML", "RSS"]
+page = ["HTML"]
 
 [related]
 threshold = 80

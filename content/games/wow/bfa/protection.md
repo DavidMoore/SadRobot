@@ -206,6 +206,10 @@ Dunegorger Kraulok: Legs Haste/Crit
 </tbody>
 </table>
 
+# Essences
+
+
+
 # References
 
 | Name | Description | Authors | Updated |

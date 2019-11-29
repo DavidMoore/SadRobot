@@ -23,9 +23,16 @@ If you're in PvP and holding CTRL, then enable Shield of Virtue (AOE silence) be
 Kick / interrupt your mouseover target, focus target or selected target (in that priority order)
 
 ```
-  #showtooltip Rebuke
+  #showtooltip
   /stopcasting
   /cast [@mouseover,harm,nodead][@focus,harm,nodead][@target,harm,nodead] Rebuke
+```
+
+#### Hammer of Justice
+
+```
+#showtooltip
+/cast [@mouseover,exists,harm][] Hammer of Justice
 ```
 
 #### Judgment
@@ -33,8 +40,8 @@ Kick / interrupt your mouseover target, focus target or selected target (in that
 Judges your mouseover target if they're an enemy, enemy focus target or finally your target.
 
 ```
-  #showtooltip Judgment
-  /cast [@mouseover,harm][@focus,exists,harm][@target,harm,nodead] Judgment
+  #showtooltip
+  /cast [@mouseover,exists,harm][@focus,exists,harm][@target,harm,nodead][]Judgment
 ```
 
 #### Divine Shield
